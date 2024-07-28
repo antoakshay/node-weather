@@ -26,7 +26,7 @@ const hbsviews = path.join(__dirname , '../templates/views')
 const partials = path.join(__dirname , '../templates/partials')
 
 // console.log(publicDir);
-// console.log(hbsviews);
+console.log(hbsviews);
 
 //The path.join() method in Node.js is used to join multiple segments of
 // a path into a single path string, normalizing the resulting path.
